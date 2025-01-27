@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984EE0BE-E946-4749-A0C9-1DB0E27E00C1}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload|c:\\users\\shali\\onedrive\\desktop\\.net\\13_dynamicfileupload\\10_dinamicfileupload\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984EE0BE-E946-4749-A0C9-1DB0E27E00C1}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload|solutionrelative:10_dinamicfileupload\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984EE0BE-E946-4749-A0C9-1DB0E27E00C1}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload|c:\\users\\shali\\onedrive\\desktop\\.net\\13_dynamicfileupload\\10_dinamicfileupload\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{984EE0BE-E946-4749-A0C9-1DB0E27E00C1}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload|solutionrelative:10_dinamicfileupload\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984EE0BE-E946-4749-A0C9-1DB0E27E00C1}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\10_DinamicFileUpload\\10_DinamicFileUpload|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_dinamicfileupload\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984EE0BE-E946-4749-A0C9-1DB0E27E00C1}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\10_DinamicFileUpload\\10_DinamicFileUpload|solutionrelative:10_dinamicfileupload\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload\\Default.aspx",
+              "RelativeDocumentMoniker": "10_DinamicFileUpload\\Default.aspx",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload\\Default.aspx",
+              "RelativeToolTip": "10_DinamicFileUpload\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-08T05:08:33.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "10_DinamicFileUpload\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload\\Default.aspx.cs",
+              "RelativeToolTip": "10_DinamicFileUpload\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:37:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "10_DinamicFileUpload\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\13_DynamicFileUpload\\10_DinamicFileUpload\\Default.aspx.cs",
+              "RelativeToolTip": "10_DinamicFileUpload\\Default.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:08:37.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
