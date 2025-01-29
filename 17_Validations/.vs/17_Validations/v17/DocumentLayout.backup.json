@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\17_Validations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE211EF4-FC44-43A5-921C-D83D2C29A063}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\17_Validations\\17_Validations|c:\\users\\shali\\onedrive\\desktop\\.net\\17_validations\\17_validations\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AE211EF4-FC44-43A5-921C-D83D2C29A063}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\17_Validations\\17_Validations|solutionrelative:17_validations\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\17_Validations\\17_Validations\\Default.aspx",
+              "RelativeDocumentMoniker": "17_Validations\\Default.aspx",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\17_Validations\\17_Validations\\Default.aspx*",
+              "RelativeToolTip": "17_Validations\\Default.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-10T16:46:10.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
