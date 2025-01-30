@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\20_Capatcha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F618AC-1EB1-44A9-B8ED-E4533BB19A1D}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\20_Capatcha\\20_Capatcha|c:\\users\\shali\\onedrive\\desktop\\xipra\\.net\\20_capatcha\\20_capatcha\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F618AC-1EB1-44A9-B8ED-E4533BB19A1D}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\20_Capatcha\\20_Capatcha|solutionrelative:20_capatcha\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F618AC-1EB1-44A9-B8ED-E4533BB19A1D}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\20_Capatcha\\20_Capatcha|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\20_Capatcha\\20_capatcha\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21F618AC-1EB1-44A9-B8ED-E4533BB19A1D}|C:\\Users\\shali\\OneDrive\\Desktop\\.Net\\20_Capatcha\\20_Capatcha|solutionrelative:20_capatcha\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\20_Capatcha\\20_Capatcha\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "20_Capatcha\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\20_Capatcha\\20_Capatcha\\Default.aspx.cs",
+              "RelativeToolTip": "20_Capatcha\\Default.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:19:20.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\20_Capatcha\\20_Capatcha\\Default.aspx",
+              "RelativeDocumentMoniker": "20_Capatcha\\Default.aspx",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\20_Capatcha\\20_Capatcha\\Default.aspx",
+              "RelativeToolTip": "20_Capatcha\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-11T13:19:09.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
