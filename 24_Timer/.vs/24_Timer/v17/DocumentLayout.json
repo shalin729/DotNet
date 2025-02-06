@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74514B76-CB9B-4EB3-9124-1F8D0E08D3FF}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_Timer|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_timer\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74514B76-CB9B-4EB3-9124-1F8D0E08D3FF}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_Timer|solutionrelative:24_timer\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74514B76-CB9B-4EB3-9124-1F8D0E08D3FF}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_Timer|c:\\users\\shali\\onedrive\\desktop\\xipra\\.net\\24_timer\\24_timer\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74514B76-CB9B-4EB3-9124-1F8D0E08D3FF}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_Timer|solutionrelative:24_timer\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_Timer\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "24_Timer\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_Timer\\Default.aspx.cs",
+              "RelativeToolTip": "24_Timer\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:50:31.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_Timer\\Default.aspx",
+              "RelativeDocumentMoniker": "24_Timer\\Default.aspx",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\24_Timer\\24_Timer\\Default.aspx",
+              "RelativeToolTip": "24_Timer\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-17T03:46:13.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
