@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "29_View_&_MultyView", "29_View_&_MultyView\", "{DB4DC4AB-D32F-41EC-9C15-C271D3C7B20B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54013"
+		Debug.AspNetCompiler.PhysicalPath = "29_View_&_MultyView\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54013\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54013"
+		Release.AspNetCompiler.PhysicalPath = "29_View_&_MultyView\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54013\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54013"
+		SlnRelativePath = "29_View_&_MultyView\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4DC4AB-D32F-41EC-9C15-C271D3C7B20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4DC4AB-D32F-41EC-9C15-C271D3C7B20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

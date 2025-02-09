@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4DC4AB-D32F-41EC-9C15-C271D3C7B20B}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\29_View_\u0026_MultyView|c:\\users\\shali\\onedrive\\desktop\\xipra\\.net\\29_view_\u0026_multyview\\29_view_\u0026_multyview\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4DC4AB-D32F-41EC-9C15-C271D3C7B20B}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\29_View_\u0026_MultyView|solutionrelative:29_view_\u0026_multyview\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4DC4AB-D32F-41EC-9C15-C271D3C7B20B}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\29_View_\u0026_MultyView|c:\\users\\shali\\onedrive\\desktop\\xipra\\.net\\29_view_\u0026_multyview\\29_view_\u0026_multyview\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DB4DC4AB-D32F-41EC-9C15-C271D3C7B20B}|C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\29_View_\u0026_MultyView|solutionrelative:29_view_\u0026_multyview\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\29_View_\u0026_MultyView\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "29_View_\u0026_MultyView\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\29_View_\u0026_MultyView\\Default.aspx.cs",
+              "RelativeToolTip": "29_View_\u0026_MultyView\\Default.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:28:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\29_View_\u0026_MultyView\\Default.aspx",
+              "RelativeDocumentMoniker": "29_View_\u0026_MultyView\\Default.aspx",
+              "ToolTip": "C:\\Users\\shali\\OneDrive\\Desktop\\xipra\\.Net\\29_View_\u0026_MultyView\\29_View_\u0026_MultyView\\Default.aspx*",
+              "RelativeToolTip": "29_View_\u0026_MultyView\\Default.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-20T04:21:40.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
